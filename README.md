@@ -85,12 +85,3 @@ current flows through its emitter generating the voltage across the resistance c
 ## RESULT
 Hence the relationship between input and received signal in 660mm fiber optic cable is found using analog link.
 
-## MODEL GRAPH
-
-*(Insert model graph here)*
-
----
-
-## RESULT
-
-*(Summarize observations and conclusions here)*

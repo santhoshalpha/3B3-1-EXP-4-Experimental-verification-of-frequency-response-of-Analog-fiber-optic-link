@@ -74,12 +74,16 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## TABULATION  
 **Transmission through Analog Link**
+![566746709-399304b5-03f8-4856-9e18-401293bc34e7](https://github.com/user-attachments/assets/6fd066bd-5eea-413a-90a2-815ec9683858)
+## MODAL GRAPH
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
 
----
+<img width="845" height="439" alt="566748560-9b8940b1-524b-4b48-9a5d-3912366dbeec" src="https://github.com/user-attachments/assets/bc0e5cc9-3a98-49f0-aca3-b8f553dd212c" />
+
+---![566748726-d278d423-2c86-4fb0-9e84-3df199048412](https://github.com/user-attachments/assets/e1fd714a-9a09-4890-9741-6f5bf0a32fd4)
+
+## RESULT
+Hence the relationship between input and received signal in 660mm fiber optic cable is found using analog link.
 
 ## MODEL GRAPH
 
